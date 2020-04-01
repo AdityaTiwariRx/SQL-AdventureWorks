@@ -1,0 +1,8 @@
+USE TSQL;
+GO
+
+
+ CREATE SCHEMA DesignMarketing AUTHORIZATION dm;
+
+--
+-- Set the authorization to dbo.
